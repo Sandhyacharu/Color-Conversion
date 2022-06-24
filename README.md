@@ -1,4 +1,7 @@
-# Color Conversion
+### EX NO: 03
+### DATE:
+# <p align="center">COLOR CONVERSION</p>
+
 ## AIM
 To perform the color conversion between RGB, BGR, HSV, and YCbCr color models.
 
@@ -21,10 +24,10 @@ Split and merge the image using cv2.split and cv2.merge commands
 End the program and close the output image windows.
 
 ## Program:
-
+```
 ## Developed By : N Sandhya Charu
 ## Register Number : 212220230041
-
+```
 
 ### i) Convert BGR and RGB to HSV and GRAY
 ```python3
